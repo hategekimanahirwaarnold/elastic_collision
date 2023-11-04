@@ -1,6 +1,7 @@
 # Collision of particles
 
-This is a similation of physical collisions. At some point, particles which collide stick together as it happens in chemistry.
+This is a similation of physical collisions. Typically, this is elastic collision, which means that kinetic energy of particles won't be lost after collision.
 
 Enjoy,
+
 Arnold
